@@ -18,3 +18,7 @@ First open https://remix.ethereum.org/
 And Paste the Smart Contract
 
 Click Compile and then Deploy
+
+Notice: You'll have to pay for fees, etc.
+
+Lost file
